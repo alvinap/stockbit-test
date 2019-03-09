@@ -2,7 +2,7 @@
 Backend Dev Test
 
 ## IMPORT DATABASE
-import database sql (stockbit-test.sql) from folder: database, to your system database/.
+import database sql (stockbit-test.sql) from folder: database/, to your system database.
 ## CONFIGURATION DATABASE
 setup username, password, database credential your system at file (database.php) from folder: application/config/. 
 ## SETUP SMTP EMAIL ACCOUNT
